@@ -14,7 +14,7 @@ Please provide your MetaMask wallet address:
 
 Please provide a screenshot of the `forge test -vvv` command running in your local environment.
 
-![alt text](screenshots/fig1.png)
+![0](screenshots/fig1.png)
 
 ## Contract Address
 
